@@ -12,6 +12,7 @@ public class SpringSecurityDemoApplication {
     public static void main(String[] args) {
         ConfigurableApplicationContext run = SpringApplication.run(SpringSecurityDemoApplication.class, args);
         System.out.println(run);
+        System.out.println(run);
 
     }
 
