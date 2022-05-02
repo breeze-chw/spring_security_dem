@@ -15,6 +15,7 @@ public class SpringSecurityDemoApplication {
         System.out.println(run);
         System.out.println(run);
         System.out.println(111);
+        System.out.println(2222);
 
     }
 
